@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-My name is Vo Duc Huy from Can Tho ❤.
-
-- Portfolio: https://voduchuy.vercel.app
-- LinkedIn: www.linkedin.com/in/vdhme
-- Facebook: https://www.facebook.com/VDH.me
+My name is Vo Duc Huy from Can Tho.
 
 ## Skills
 
