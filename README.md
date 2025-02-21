@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Vo Duc Huy from Can Tho.
-
-## Skills
+I'm from Can Tho.
 
 ![ExpressJs](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
