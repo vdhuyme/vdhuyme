@@ -8,7 +8,7 @@ I love building web applications and exploring new technologies.
 
 - I'm currently working on exciting web projects
 - I'm constantly learning and improving my skills
-   Ask me about web development and software architecture
+- Ask me about web development and software architecture
 
 ## Tech Stack
 
