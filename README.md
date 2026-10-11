@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi, I'm Vo Duc Huy — a software engineer who loves building web applications, solving real-world problems, and delivering digital products that create value. I’m currently contributing to projects with Team Mango and building modern web experiences.
+Hi, I'm Vo Duc Huy — a software engineer who loves building web applications, solving real-world problems, and delivering digital products that create value. I'm currently contributing to projects with Team Mango and building modern web experiences.
 
 - Currently working on exciting web projects
 - Continuously learning and improving my skills
@@ -48,8 +48,7 @@ Hi, I'm Vo Duc Huy — a software engineer who loves building web applications, 
 - Experience integrating RAG and building knowledge/search systems for applications
 
 ## Projects
-- [Cronus FE](https://cronus-fe.vercel.app) — Modern frontend product focused on delivering a smooth and user-friendly experience.
-- [Team Mango](https://teammango.vn/) — A product and engineering team building digital solutions with a strong focus on quality, UX, and scalable systems.
+- [Cronus](https://cronus-fe.vercel.app) — Modern digital product focused on delivering a smooth and user-friendly experience.
 
 ## My Team
 [Team Mango](https://teammango.vn/) is a collaborative team passionate about building digital products, solving real business problems, and creating impactful user experiences through modern technology.
