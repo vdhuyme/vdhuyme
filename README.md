@@ -48,7 +48,7 @@ Hi, I'm Vo Duc Huy — a software engineer who loves building web applications, 
 - Experience integrating RAG and building knowledge/search systems for applications
 
 ## Projects
-- [Cronus](https://cronus-fe.vercel.app) — Modern digital product focused on delivering a smooth and user-friendly experience.
+- [Cronus](https://cronus-fe.vercel.app) — Full-featured ecommerce platform with a modern storefront, admin dashboard, payment integration, social login, order management, and scalable architecture for online retail experiences.
 
 ## My Team
 [Team Mango](https://teammango.vn/) is a collaborative team passionate about building digital products, solving real business problems, and creating impactful user experiences through modern technology.
